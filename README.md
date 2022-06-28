@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edgos3
-- 👀 I’m interested in web development.
+- 👀 I’m interested in full stack web development.
 
 <!---
 edgos3/edgos3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
